@@ -1,0 +1,26 @@
+
+*{
+  
+    margin: 0;
+    padding: 0;
+  
+}
+
+.conteiner{
+ 
+   display: grid;
+    grid-template-columns: 1fr 2fr ;
+    grid-auto-rows: 100px;
+    gap: 1em;
+  
+
+    
+  }
+
+  .add-new-task{
+    width:200px;
+    height:500px;
+  }
+  
+  
+  
